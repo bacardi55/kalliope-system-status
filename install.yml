@@ -1,4 +1,4 @@
-- name: Kalliope MPD neuron install
+- name: Kalliope System status neuron install
   hosts: localhost
   gather_facts: no
   connection: local
