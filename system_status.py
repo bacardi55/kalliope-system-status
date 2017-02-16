@@ -9,7 +9,7 @@ from kalliope.core.NeuronModule import NeuronModule, InvalidParameterException
 logging.basicConfig()
 logger = logging.getLogger("kalliope")
 
-class SystemStatus(NeuronModule):
+class System_status(NeuronModule):
     def __init__(self, **kwargs):
         super(SystemStatus, self).__init__(**kwargs)
 
