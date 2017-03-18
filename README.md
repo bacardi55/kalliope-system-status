@@ -57,6 +57,6 @@ No option so far
 
 
 
-
-* [my posts about kalliope](http://bacardi55.org/en/term/kalliope)
+* [a blog post about this neuron](http://bacardi55.org/2017/02/21/kalliope-system-status-neuron.html)
+* [my posts about kalliope](http://bacardi55.org/kalliope.html)
 
